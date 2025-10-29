@@ -151,7 +151,8 @@ fig.tight_layout()
 
 ### Insights
 - All senior rolls returned a higher median salary than their Jr. variant however Data Engineers and Data Scientists have a higher annual salary than Senior Data Analysts.
-- 
+- A clear separation exists between those skills that are the highest rewarded those that represent the greatest volume of the job market.
+- The top most in demand skills represent a variety of proficiencies across different technological domains including visualization tools, programming languages, and database expertise.  
 
 
 ## 4. What is the most optimal skill to learn for Data Analysts?
